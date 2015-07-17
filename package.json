@@ -7,8 +7,17 @@
     "start": "node index.js"
   },
   "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.13.2",
     "ejs": "^2.3.1",
-    "express": "~4.9.x"
+    "express": "~4.9.x",
+    "jsonwebtoken": "^5.0.4",
+    "lodash": "^3.10.0",
+    "method-override": "^2.3.4",
+    "mongoose": "^4.0.7",
+    "morgan": "^1.6.1",
+    "passport": "^0.2.2",
+    "passport-jwt": "^1.1.0"
   },
   "engines": {
     "node": "0.12.2"
