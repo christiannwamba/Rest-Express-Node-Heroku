@@ -1,7 +1,10 @@
-<<<<<<< HEAD
+# Rest-Express-Node-Heroku
+Boilerplate that assists in creating RESTful endpoints using Express and Node and also setup for Heroku deploy
+>>>>>>> 16f9abdb146b2411bbc2914259057164df1ad19d
+
 # node-js-getting-started
 
-A barebones Node.js app using [Express 4](http://expressjs.com/).
+A barebones Node.js app using [Express 4](http://expressjs.com/) as stated in heroku repo for node apps.
 
 This application supports the [Getting Started with Node on Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs) article - check it out.
 
@@ -36,6 +39,3 @@ For more information about using Node.js on Heroku, see these Dev Center article
 - [Best Practices for Node.js Development](https://devcenter.heroku.com/articles/node-best-practices)
 - [Using WebSockets on Heroku with Node.js](https://devcenter.heroku.com/articles/node-websockets)
 =======
-# Rest-Express-Node-Heroku
-Boilerplate that assists in creating RESTful endpoints using Express and Node and also setup for Heroku deploy
->>>>>>> 16f9abdb146b2411bbc2914259057164df1ad19d
