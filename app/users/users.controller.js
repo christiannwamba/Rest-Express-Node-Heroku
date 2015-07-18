@@ -21,6 +21,14 @@ exports.setup = function (req, res) {
     });
 };
 
+exports.authorize = function(req,res){
+
+};
+
+exports.isAdmin = function(req,res){
+
+};
+
 exports.authenticate = function (req, res) {
 
     // find the user
@@ -62,7 +70,8 @@ exports.authenticate = function (req, res) {
         }
 
     });
-}
+};
+
 
 exports.verify = function(req, res, next) {
 
